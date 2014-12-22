@@ -13,6 +13,7 @@
 		B6AE60E11A474F940096F347 /* nice_music.ogg in Resources */ = {isa = PBXBuildFile; fileRef = B6AE60E01A474F940096F347 /* nice_music.ogg */; };
 		B6AE60E31A474F940096F347 /* sansation.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B6AE60E21A474F940096F347 /* sansation.ttf */; };
 		B6AE60E51A474F940096F347 /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = B6AE60E41A474F940096F347 /* icon.png */; };
+		B6C9490A1A476EED004F535B /* tileset.png in Resources */ = {isa = PBXBuildFile; fileRef = B6C949091A476EED004F535B /* tileset.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		B6AE60E01A474F940096F347 /* nice_music.ogg */ = {isa = PBXFileReference; lastKnownFileType = file; path = nice_music.ogg; sourceTree = "<group>"; };
 		B6AE60E21A474F940096F347 /* sansation.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = sansation.ttf; sourceTree = "<group>"; };
 		B6AE60E41A474F940096F347 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
+		B6C949091A476EED004F535B /* tileset.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tileset.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 				B6AE60DE1A474F940096F347 /* cute_image.jpg */,
 				B6AE60E01A474F940096F347 /* nice_music.ogg */,
 				B6AE60E21A474F940096F347 /* sansation.ttf */,
+				B6C949091A476EED004F535B /* tileset.png */,
 				B6AE60E41A474F940096F347 /* icon.png */,
 			);
 			name = Resources;
@@ -145,6 +148,7 @@
 				B6AE60E51A474F940096F347 /* icon.png in Resources */,
 				B6AE60E31A474F940096F347 /* sansation.ttf in Resources */,
 				B6AE60E11A474F940096F347 /* nice_music.ogg in Resources */,
+				B6C9490A1A476EED004F535B /* tileset.png in Resources */,
 				B6AE60DF1A474F940096F347 /* cute_image.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -311,6 +315,7 @@
 				B6AE60EA1A474F940096F347 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
